@@ -1,0 +1,27 @@
+@media all and (max-width:992px){
+    header{
+        display: none;
+    }
+    .chy{
+        display: none;
+    }
+    .choice{
+        display: none;
+    }
+    .recent-img{
+        display: none;
+    }
+    
+    .banner .recent-content h5 a{
+        font-size: 35px;
+    }
+    .banner .recent{
+        font-size: 23px;
+        margin-top: 30px;
+    }
+    footer a{
+        font-size: 12px;
+    }
+    
+}
+
